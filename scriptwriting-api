@@ -1,0 +1,5 @@
+scriptwriting-api/
+├── api/
+│   └── generatePlotIdeas.js
+├── package.json
+└── vercel.json
